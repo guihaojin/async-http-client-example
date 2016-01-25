@@ -13,4 +13,4 @@ n.times do |i|
   p "Time now: #{Time.now}, response #{i}: #{response.to_str}"
 end
 
-p "Time elapsed: #{Time.now - start_time}"
+p "Time elapsed: #{Time.now - start_time} s."
