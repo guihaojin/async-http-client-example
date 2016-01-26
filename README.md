@@ -17,3 +17,4 @@ Run async HTTP client example:
 
 `ruby async_clinet.rb`
 
+`Ctrl+c` to stop the EventMachine.
